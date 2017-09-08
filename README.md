@@ -12,4 +12,4 @@ So if you want to have a site of your own and for some reason can't get your own
 1. Go to the `pub` folder. Fork the repository and create a folder and some HTML files. Then just commit the changes and make a pull request.
 
 
-# MORE INFO COMING LATER I GTG
+### MORE INFO COMING LATER I GTG
